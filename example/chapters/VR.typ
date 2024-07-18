@@ -1,0 +1,3 @@
+== Virtual Reality (VR)
+
+Virtual Reality (VR) ist eine Technologie, die es Benutzern ermöglicht, in eine computergenerierte, dreidimensionale Umgebung einzutauchen. Diese Umgebung kann mit Hilfe von VR-Headsets und anderen Peripheriegeräten erlebt werden. VR findet Anwendung in Bereichen wie Gaming, Ausbildung, Medizin und Architektur. Durch die Schaffung immersiver Erlebnisse kann VR das Lernen und die Interaktion mit digitalen Inhalten erheblich verbessern.

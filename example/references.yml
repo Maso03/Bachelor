@@ -1,0 +1,243 @@
+# https://github.com/typst/hayagriva/blob/main/docs/file-format.md
+
+lorem-ipsum-generator:
+  type: web
+  title: "Lorem Ipsum - All the Facts - Lipsum generator"
+  url:
+    value: https://www.lipsum.com
+    date: 2024-01-03
+
+
+modern-approach:
+  type: book
+  title: "Artificial Intelligence - A Modern Approach Third Edition"
+  author:
+    - Stuart Russell
+    - Peter Norvig
+  date: 2010
+  url:
+    value: https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf
+    date: 2024-07-01
+
+KI:
+  type: book
+  title: "Künstliche Intelligenz verstehen - Grundlagen – Use-Cases – unternehmenseigene KI-Journey"
+  author:
+    - Ralf T. Kreutzer
+  date: 2023
+  url:
+    value: https://link.springer.com/content/pdf/10.1007/978-3-658-42598-2.pdf
+    date: 2024-07-05
+
+BMFW:
+  type: web
+  title: "Künstliche Intelligenz - Bundesministerium für Wirtschaft und Klimaschutz"
+  url:
+    value: https://www.digitale-technologien.de/DT/Navigation/DE/Themen/KuenstlicheIntelligenz/KuenstlicheIntelligenz.html
+    date: 2024-07-05
+
+KI-Unternehmen:
+  type: web
+  title: "In welchen Bereichen genau kommt bzw. wird KI in Ihrem Unternehmen zum Einsatz kommen?"
+  url:
+    value: https://de.statista.com/statistik/daten/studie/1251065/umfrage/ki-einsatzbereiche-in-unternehmen/
+    date: 2024-07-05
+
+KI-Unternehmen2:
+  type: web
+  title: "Anwendungsbereiche von Künstlicher Intelligenz (KI) in Standard-Geschäftsprozessen nach Branche weltweit im Jahr 2023"
+  url:
+    value: https://de.statista.com/statistik/daten/studie/1248568/umfrage/ki-anwendung-in-standard-geschaeftsprozessen-nach-branche/
+    date: 2024-07-05
+
+KI-Wirtschaft:
+  type: web
+  title: "Künstliche Intelligenz - Wo steht die deutsche Wirtschaft?"
+  author:
+    - Achim Berg
+  date: 2021
+  url:
+    value: https://www.bitkom.org/sites/default/files/2021-04/bitkom-charts-kunstliche-intelligenz-21-04-2021_final.pdf
+    date: 2024-07-05
+
+KI-Umsatz:
+  type: book
+  title: "KI-Monitor 2021 - Status quo der Künstlichen Intelligenz in Deutschland Gutachten"
+  author:
+    - Jan Büchel
+    - Dr. Vera Demary
+    - Dr. Henry Goecke
+    - Enno Kohlisch
+    - Dr. Oliver Koppel
+    - Dr. Armin Mertens
+    - Dr. Christian Rusche
+    - Dr. Marc Scheufen
+    - Jan Wendt
+  date: 2021
+  url:
+    value: https://www.iwkoeln.de/fileadmin/user_upload/Studien/Gutachten/PDF/2021/KI_Monitor_Bericht_2021.pdf
+    date: 2024-07-05
+
+KI-Statista:
+  type: web
+  title: "Was bereitet Ihnen beim Einsatz von KI Sorgen?"
+  url:
+    value: https://de.statista.com/statistik/daten/studie/1250932/umfrage/sorgen-beim-einsatz-von-kuenstlicher-intelligenz/
+    date: 2024-07-05
+
+
+KI-Statista2:
+  type: web
+  title: "Künstliche Intelligenz - (KI) - Statista DossierPlus über die Bedeutung von KI"
+  url:
+    value: https://de.statista.com/statistik/studie/id/116984/dokument/kuenstliche-intelligenz/
+    date: 2024-07-06
+
+KI-Statista3:
+  type: web
+  title: "Artificial Intelligence: in-depth market analysis"
+  url:
+    value: https://de.statista.com/statistik/studie/id/50489/dokument/in-depth-report-artificial-intelligence/
+    date: 2024-07-06
+
+RobotsAI:
+  type: book
+  title: "Augmented Reality Meets Artificial Intelligence in Robotics: A Systematic Review"
+  author:
+  - Zahraa Bassyouni
+  - Imad H. Elhajj
+  date: 2021
+  url: 
+    value: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.724798/full
+    date: 2024-07-06
+
+AlphaFold:
+  type: web
+  title: "AlphaFold: Using AI for scientific discovery"
+  url:
+    value: https://deepmind.google/technologies/alphafold/
+    date: 2024-07-08
+
+KI-Wachstum:
+  type: web
+  title: "ChatGPT sets record for fastest-growing user base - analyst note"
+  author:
+  - Krystal Hu
+  url:
+    value: https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/
+    date: 2024-07-10
+
+KI-TikTok:
+  type: web
+  title: "How ChatGPT Managed to Grow Faster Than TikTok or Instagram"
+  author:
+  - Andrew R. Chow
+  url:
+  value: https://time.com/6253615/chatgpt-fastest-growing/
+  date: 2024-07-10
+
+GenAI-Standard:
+  type: book
+  title: "The GenAI is out of the bottle: generative artificial intelligence from a business model innovation perspective"
+  author:
+  - Dominik K. Kanbach
+  - Louisa Heiduk
+  - Georg Blueher
+  - Maximilian Schreiter 
+  - Alexander Lahmann
+  date: 2023
+  url: 
+    value: https://link.springer.com/article/10.1007/s11846-023-00696-z
+    date: 2024-07-10
+
+GenAI-Standard2:
+  type: book
+  title: "Business Model - Innovation Strategy"
+  author:
+  - Raphael Amit
+  - Christoph Zott
+  date: 2020
+  url: 
+    value: https://books.google.de/books?hl=de&lr=&id=utP5DwAAQBAJ&oi=fnd&pg=PA55&ots=p8YMHTG8Ub&sig=iexxxFCun3ow3dUJQNdMe4xX9iE&redir_esc=y#v=onepage&q&f=false
+    date: 2024-07-10
+
+IWWB:
+  type: web
+  title: "Was ist Generative Künstliche Intelligenz (GenAI)?"
+  url:
+    value: https://www.iwwb.de/information/Was-ist-Generative-Kuenstliche-Intelligenz-GenAI-weiterbildung-117.html
+    date: 2024-10-07
+
+GoogleGenAI:
+  type: web
+  title: "Seven new no-cost generative AI training courses to advance your cloud career"
+  url:
+    value: https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources?hl=en
+    date: 2024-07-10
+
+GAN:
+  type: web
+  title: "Generative Adversarial Networks (GANs) - An Introduction"
+  url:
+    value: https://learnopencv.com/introduction-to-generative-adversarial-networks/
+    date: 2024-07-12
+
+GoogleGAN:
+  type: web
+  title: "Overview of GAN Structure"
+  url:
+    value: https://developers.google.com/machine-learning/gan/gan_structure
+    date: 2024-07-12
+
+VAEs:
+  type: web
+  title: "Variational AutoEncoders"
+  url:
+    value: https://www.geeksforgeeks.org/variational-autoencoders/
+    date: 2024-07-13
+
+RNN:
+  type: web
+  title: "What is Recurrent Neural Networks (RNN)?"
+  url:
+    value: https://www.analyticsvidhya.com/blog/2022/03/a-brief-overview-of-recurrent-neural-networks-rnn/
+    date: 2024-07-15
+
+
+AIAYN:
+  type: book
+  title: "Attention is All You Need"
+  author:
+  - Ashish Vaswani
+  - Noam Shazeer
+  - Niki Parmar
+  - Jakob Uszkoreit
+  - Llion Jones
+  - Aidan N. Gomez
+  - Lukasz Kaiser
+  - Illia Polosukhin
+  date: 2017
+  url: 
+    value: https://arxiv.org/pdf/1706.03762
+    date: 2024-07-16
+
+IBMConvAI:
+  type: web
+  title: "Conversational AI: The Future of Customer Service"
+  url:
+    value: https://www.ibm.com/cloud/learn/conversational-ai
+    date: 2024-07-17
+
+NvidiaConvAI:
+  type: web
+  title: "Spotlight: Convai Reinvents Non-Playable Character Interactions"
+  url:
+    value: https://developer.nvidia.com/blog/spotlight-convai-reinvents-non-playable-character-interactions/#:~:text=Whether%20you%27re%20a%20creator,or%20programmatically%20through%20the%20API.
+    date: 2024-07-17
+
+ConvAI:
+  type: web
+  title: "ConvAI"
+  url:
+    value: https://convai.com
+    date: 2024-07-17

@@ -1,0 +1,3 @@
+== 3D-Modellierung - Unreal Engine
+
+Die Unreal Engine ist eine leistungsstarke Plattform für 3D-Modellierung und Spielentwicklung, die von Epic Games entwickelt wurde. Sie bietet eine Vielzahl von Tools und Funktionen zur Erstellung realistischer 3D-Umgebungen, Charaktere und Animationen. Die Unreal Engine wird nicht nur für Videospiele verwendet, sondern auch in Filmproduktion, Architekturvisualisierung und anderen Bereichen, die hochwertige 3D-Darstellungen erfordern. Ihre Flexibilität und Leistungsfähigkeit machen sie zu einer bevorzugten Wahl für die Entwicklung interaktiver und immersiver Anwendungen.
